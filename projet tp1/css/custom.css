@@ -1,0 +1,7 @@
+/* this is the custom css file */
+
+#chat {
+	width: 200px;
+	height: auto;
+	z-index: 0;
+}
